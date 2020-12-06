@@ -14,7 +14,7 @@
 	"author": "Bernardo Baumblatt",
 	"license": "MIT",
 	"dependencies": {
-		"@capacitor/core": "latest"
+		"@capacitor/core": "latest",
 		"rimraf": "^3.0.0",
 		"typescript": "^3.9.5",
 		"@capacitor/ios": "latest",
